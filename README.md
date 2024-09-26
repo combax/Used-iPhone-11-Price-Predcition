@@ -104,7 +104,7 @@ It contains following columns:
   
   - Shipping Model -> RMSE: 9.728743433873511, R^2: 0.40216063461271667, Adjusted R^2: 0.39351419751000793
 
-1. Results for ***RandomForest***:
+2. Results for ***RandomForest***:
   - Price Model -> RMSE: 76.99599477296677, R^2: 0.6730473088388476, Adjusted R^2: 0.668318654214616
 
   - ***Shipping Model -> RMSE: 7.589071483817029, R^2: 0.6362120623756692, Adjusted R^2: 0.6309506665835818***
